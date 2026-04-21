@@ -14,7 +14,7 @@ To address these problems, AFPM-Net improves the baseline detector from four asp
 
 - **Adaptive Frequency Stem (AFS)** for enhancing shallow edge-aware and frequency-sensitive representations;
 - **Progressive Spatial-Conservative Downsampling (PSC)** for reducing structural information loss during downsampling;
-- **Multi-scale Feature Fusion Upsampling (MFFU)** for improving multi-scale feature interaction before upsampling;
+- **Multi-scale Feature Fusion Upsampling (DMFF)** for improving multi-scale feature interaction before upsampling;
 - **P2-oriented pyramid redesign** for reallocating model capacity from coarse high-level structures to high-resolution prediction features.
 
 AFPM-Net is designed for UAV small object detection and evaluated on **VisDrone2019** and **UAVDT**.
